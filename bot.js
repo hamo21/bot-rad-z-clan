@@ -21,7 +21,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === 'الشعار'){
-        message.channel.send('! Z |')
+        message.channel.send('``! KD |``')
     }
 });
 
@@ -33,7 +33,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === 'الشعار'){
-        message.channel.send('!༺𝒵♚')
+        message.channel.send('``! ᴷ ᴰ多``')
     }
 });
 
@@ -124,7 +124,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Z_4Ever`,"http://twitch.tv/S-F")
+client.user.setGame(`Kingdom of  Death⚔`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
   
